@@ -1,8 +1,6 @@
 App42-NokiaX-Push-Notification
 ==============================
 
-App42 NokiaX Push Notification
-================================
 
 # About Application
 
