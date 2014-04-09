@@ -50,9 +50,7 @@ public final class CommonUtilities {
             case NokiaPushNotifications:
                 defaultSenderId = NokiaXSenderId;
                 break;
-            case GCM:
-                defaultSenderId = GcmProjectNo;
-                break;
+           
             default:
                 defaultSenderId = "";
                 break;
