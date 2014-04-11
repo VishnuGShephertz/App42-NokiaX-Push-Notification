@@ -9,7 +9,7 @@ App42-NokiaX-Push-Notification
 
 # Running Sample
 
-This is a sample Android app is made by using App42 Action-Script API. It uses PushNotification API of App42 platform.
+This is a sample Android app is made by using App42 Android API. It uses PushNotification API of App42 platform.
 Here are the few easy steps to run this sample app.
 
 1. [Register] (https://apphq.shephertz.com/register) with App42 platform.
