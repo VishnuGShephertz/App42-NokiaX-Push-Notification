@@ -129,7 +129,7 @@ Add Receiver and Services
 ```
 __Message Open Activity:__ You can also change the Activty on which user should navigate when PushNotification is clicked in Android change it in AndroidManifest.xml file .
 ```
-<meta-data name="onMessageOpen" value="com.example.android.nokia.app42.push.MainActivity"/>
+<meta-data android:name="onMessageOpen" android:value="com.example.android.nokia.app42.push.MainActivity"/>
 ```
 
 
